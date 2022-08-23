@@ -7,5 +7,8 @@ for i in range(lenght):
   sum+=(a**lenght)
   m=int(m/10)
 
+
 print("HI")
 print(sum)
+print(f'the armstorng={sum}')
+
