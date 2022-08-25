@@ -10,8 +10,6 @@ for i in range(lenght):
 
 #print("HI")
 print(sum)
-for i in range(0,1):
-    pass
 print("Hi")
 print(f'the armstorng={sum}')
 
