@@ -8,7 +8,7 @@ for i in range(lenght):
   m=int(m/10)
 
 
-print("HI")
+#print("HI")
 print(sum)
 print(f'the armstorng={sum}')
 
