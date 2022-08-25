@@ -10,5 +10,7 @@ for i in range(lenght):
 
 #print("HI")
 print(sum)
+print("Hi")
 print(f'the armstorng={sum}')
+
 
